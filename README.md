@@ -1,5 +1,6 @@
 # 👋 Greetings, I’m @VeenaPD
 
+## Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VeenaPD.visitor-badge&left_text=Visitors%20Count)
 
 I am a Full Stack Developer & Team Lead having experience in Startup ecosystem building cross-platform mobile and web applications.
 
